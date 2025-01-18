@@ -679,3 +679,52 @@
     - WordPress
   site_web: https://numericatous.fr
   courriel: contact@numericatous.fr
+  
+
+Organisme :
+ACIAH, Accessibilité, Communication, Information, Accompagnement du Handicap
+Nous sommes certifiés Qualiopi.
+https://aciah-formations-informatiques-pour-tous.fr/IMG/pdf/11-certificat_qualiopi_-_aciah.pdf
+
+Description :
+L’association ACIAH, en partenariat avec l’ANCT -agence nationale de la cohésion des territoires – et avec la Conférence des Financeurs, propose des initiations ou formations autour de l’accessibilité.
+►avoir expérimenté la déficience visuelle (travail sans souris, travail à l’aveugle),
+►connaître des outils de compensation du handicap visuel (lecteur d’écran, raccourcis-clavier),
+►connaître la façon d’adapter ces outils à la problématique de chacun,
+►savoir faire un document accessible, avec navigation structurée.
+►connaître les principales règles d’accessibilité des sites internet et notamment le RGAA.
+
+Quatre Formations :
+    Des doigts et des oreilles (pratique intensive du lecteur d’écran des raccourcis-clavier),
+    Accessibilité des sites internet,
+    Accessibilité des documents bureautiques,
+    Initiation au braille.
+    et aussi : install-party
+
+lieux : Châteaubriant, Nantes, Rennes, Ancenis, Laval et autres
+
+Site s web : https://aciah.xyz  et  https://aciah-formations-informatiques-pour-tous.fr
+
+Courriel : aciah@aciah.xyz - Téléphone : 09 77 81 55 98
+
+Adresse : ACIAH - 3 avenue de la Fraternité - 44110 Châteaubriant
+
+=================
+
+Nous n’utilisons QUE des logiciels libres : Linux-Mint, Libre-Office, Thunderbird, Orca (lecteur d’écran), Spip (CMS pour sites internet), Gimp (traitement des photos), etc.
+Nous utilisons aussi la ligne de commande.
+
+Nous faisons des formations sur Linux.
+Notre formation Install-party fait ceci : Télécharger une iso de Linux-Mint, créer une clé amorçable, déterminer l’ordre de démarrage d’un ordinateur “neuf”, installer Linux-Mint, faire les mises à jour avec le Terminal, télécharger le script-global de AciahLinux, installer ce script-global en utilisant une commande bash. Nous sommes capables de montrer une installation en dual-boot.
+
+Notre formation “Des doigts et des oreilles” utilise exclusivement : Thunderbird (messagerie), libre-office (traitement de texte) et Orca (lecteur d’écran)
+
+Notre formation bureautique accessible utilise exclusivement : libre-office (traitement de texte) et Orca (lecteur d’écran) .
+
+Par rapport aux formations classiques, nous ajoutons deux compétences encore peu communes : l’accessibilité notamment aux aveugles, et le lecteur d’écran.
+
+Et une autre particularité : non seulement nous utilisons des logiciels libres mais, de plus nous avons obtenu la réalisation d’un add-on pour Thunderbird et nous avons créé des scripts pour simplifier l’utilisation de certains logiciels et même du clavier.
+
+Toutes les explications sont en ligne (https://aciah-linux.org) et sur Github (https://github.com/aciah-linux-os)
+
+Découvrir notre système bien adapté aux personnes en situation de handicap, y compris les aveugles : https://aciah.xyz/Presentation-Aciah-Linux.pdf
